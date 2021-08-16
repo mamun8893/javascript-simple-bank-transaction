@@ -1,4 +1,4 @@
 # simple-bank-transaction
 
-<p>Email:mamun@gmail.com</p>
-<p>password:mamun</p>
+<p><strong>Email:</strong> mamun@gmail.com</p>
+<p><strong>password:</strong> mamun</p>
