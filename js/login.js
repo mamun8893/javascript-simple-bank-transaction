@@ -5,7 +5,7 @@ document.getElementById('submit-btn').addEventListener('click', function() {
     const userPassword = passwordField.value;
     const userMessage = document.getElementById('error-message');
 
-    if (userEmail == "mamun@gmail.com" && userPassword == "mamun8893") {
+    if (userEmail == "mamun@gmail.com" && userPassword == "mamun") {
         window.location.href = "banking.html";
     } else {
         userMessage.innerText = "Please Enter Valid user name & passowrd"
